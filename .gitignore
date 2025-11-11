@@ -1,0 +1,8 @@
+# Ignore secrets and local configs
+.env
+__pycache__/
+*.pyc
+.vscode/
+*.db
+.cache/
+vectors/

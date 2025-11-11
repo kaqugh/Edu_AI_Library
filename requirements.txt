@@ -1,0 +1,13 @@
+# Core dependencies for Edu_AI_Library
+langchain==1.0.5
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+faiss-cpu>=1.8.0
+tiktoken
+pandas
+numpy
+openai
+streamlit
+flask
+python-dotenv
+sqlalchemy
